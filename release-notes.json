@@ -2,6 +2,7 @@
     "microdose": {
         "latest": "microdose/latest.md",
         "archive": [
+            "microdose/latest.md",
             "microdose/latest.md"
         ]
     },
@@ -16,12 +17,14 @@
     "desktop-hub": {
         "latest": "desktop-hub/latest.md",
         "archive": [
+            "desktop-hub/latest.md",
             "desktop-hub/latest.md"
         ]
     },
     "api": {
         "latest": "api/latest.md",
         "archive": [
+            "api/latest.md",
             "api/latest.md"
         ]
     }
