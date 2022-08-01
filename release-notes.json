@@ -1,0 +1,14 @@
+{
+    "microdose": {
+        "latest": "microdose/latest.md",
+        "archive": [
+            "microdose/latest.md"
+        ]
+    },
+    "platform": {
+        "latest": "platform/latest.md",
+        "archive": [
+            "platform/latest.md"
+        ]
+    }
+}
