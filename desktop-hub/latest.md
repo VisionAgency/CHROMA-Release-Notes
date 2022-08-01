@@ -1,4 +1,4 @@
-## CHROMA Hub (desktop)
+### CHROMA Hub (desktop)
 
 > Version 2.0.0
 

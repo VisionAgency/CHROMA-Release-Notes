@@ -1,4 +1,4 @@
-## CHROMA Frontend
+### CHROMA Frontend
 
 > Version 2.0.0
 

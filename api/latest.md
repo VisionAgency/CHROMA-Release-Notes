@@ -1,4 +1,4 @@
-## CHROMA Platform API
+### CHROMA Platform API
 
 > Version 1.1.0
 

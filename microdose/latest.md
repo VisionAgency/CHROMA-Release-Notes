@@ -1,4 +1,4 @@
-## Microdose VR
+### Microdose VR
 [Get Latest](https://chroma.vision/download)
 
 > Version 1.6.0 (omega)
