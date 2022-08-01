@@ -1,5 +1,3 @@
-### CHROMA Hub (desktop)
-
 > Version 2.0.0
 
 [Download latest](https://chroma.vision/download)

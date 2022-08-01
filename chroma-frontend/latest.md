@@ -1,5 +1,3 @@
-### CHROMA Frontend
-
 > Version 2.0.0
 
 [https://chroma.vision](https://chroma.vision)
