@@ -5,10 +5,22 @@
             "microdose/latest.md"
         ]
     },
-    "platform": {
-        "latest": "platform/latest.md",
+    "chroma-frontend": {
+        "latest": "chroma-frontend/latest.md",
         "archive": [
-            "platform/latest.md"
+            "chroma-frontend/latest.md"
+        ]
+    },
+    "desktop-hub": {
+        "latest": "desktop-hub/latest.md",
+        "archive": [
+            "desktop-hub/latest.md"
+        ]
+    },
+    "api": {
+        "latest": "api/latest.md",
+        "archive": [
+            "api/latest.md"
         ]
     }
 }
