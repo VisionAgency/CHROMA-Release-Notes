@@ -8,6 +8,8 @@
     "chroma-frontend": {
         "latest": "chroma-frontend/latest.md",
         "archive": [
+            "chroma-frontend/latest.md",
+            "chroma-frontend/latest.md",
             "chroma-frontend/latest.md"
         ]
     },
