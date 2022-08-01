@@ -7,6 +7,4 @@
 - More Worlds
 - New Brushes
 
-<span>
-    August 1, 2022
-</span>
+August 1, 2022

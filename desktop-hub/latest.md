@@ -7,6 +7,4 @@ The new 2.0 desktop hub is now out. It features a new look, and access to a new 
 - Complete re-write & brand new interface
 - Updated build types (alpha, beta, omega)
 
-<span>
-    August 1, 2022
-</span>
+August 1, 2022

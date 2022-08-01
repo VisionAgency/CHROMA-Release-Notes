@@ -5,6 +5,4 @@
 - NFT linked products & assets
 - Wider usage analytics
 
-<span>
-    August 1, 2022
-</span>
+August 1, 2022

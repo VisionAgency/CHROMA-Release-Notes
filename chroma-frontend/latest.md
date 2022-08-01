@@ -12,6 +12,4 @@ We've also added the ability to link a blockchain account using [Metamask](https
 - UI refresh
 - User profile cleanup
 
-<span>
-    August 1, 2022
-</span>
+August 1, 2022
