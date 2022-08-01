@@ -11,3 +11,7 @@ We've also added the ability to link a blockchain account using [Metamask](https
 - Assets now include products linked by NFTs (more info coming soon)
 - UI refresh
 - User profile cleanup
+
+<span>
+    August 1, 2022
+</span>
